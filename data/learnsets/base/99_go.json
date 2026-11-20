@@ -239,8 +239,10 @@
             "MOVE_BRAVE_BIRD",
             "MOVE_FEATHER_DANCE",
             "MOVE_GUST",
+            "MOVE_HEAT_WAVE",
             "MOVE_HURRICANE",
             "MOVE_STEEL_WING",
+            "MOVE_TWISTER",
             "MOVE_WING_ATTACK"
         ],
         "EggMoves": [],
@@ -323,11 +325,13 @@
             "MOVE_ACID",
             "MOVE_ACID_SPRAY",
             "MOVE_BITE",
+            "MOVE_BRUTAL_SWING",
             "MOVE_DARK_PULSE",
             "MOVE_DRAGON_TAIL",
             "MOVE_GUNK_SHOT",
             "MOVE_POISON_STING",
-            "MOVE_SLUDGE_WAVE"
+            "MOVE_SLUDGE_WAVE",
+            "MOVE_WRAP"
         ],
         "EggMoves": [],
         "TutorMoves": []
@@ -362,6 +366,7 @@
             "MOVE_THUNDER_SHOCK",
             "MOVE_TRAILBLAZE",
             "MOVE_VOLT_SWITCH",
+            "MOVE_VOLT_TACKLE",
             "MOVE_WILD_CHARGE"
         ],
         "EggMoves": [],
@@ -447,6 +452,7 @@
         "LevelMoves": [],
         "PreEvoMoves": [],
         "MachineMoves": [
+            "MOVE_AVALANCHE",
             "MOVE_DOUBLE_KICK",
             "MOVE_EARTHQUAKE",
             "MOVE_EARTH_POWER",
@@ -1009,7 +1015,8 @@
             "MOVE_MAGICAL_LEAF",
             "MOVE_RAZOR_LEAF",
             "MOVE_SLUDGE_BOMB",
-            "MOVE_SOLAR_BEAM"
+            "MOVE_SOLAR_BEAM",
+            "MOVE_SUCKER_PUNCH"
         ],
         "EggMoves": [],
         "TutorMoves": []
@@ -1728,6 +1735,7 @@
         "LevelMoves": [],
         "PreEvoMoves": [],
         "MachineMoves": [
+            "MOVE_AQUA_JET",
             "MOVE_HIDDEN_POWER",
             "MOVE_HYDRO_PUMP",
             "MOVE_ICE_BEAM",
@@ -2032,6 +2040,7 @@
         "PreEvoMoves": [],
         "MachineMoves": [
             "MOVE_ANCIENT_POWER",
+            "MOVE_AQUA_JET",
             "MOVE_FURY_CUTTER",
             "MOVE_MUD_SHOT",
             "MOVE_ROCK_SMASH",
@@ -2048,6 +2057,7 @@
         "MachineMoves": [
             "MOVE_ANCIENT_POWER",
             "MOVE_BITE",
+            "MOVE_BRUTAL_SWING",
             "MOVE_DRAGON_BREATH",
             "MOVE_EARTH_POWER",
             "MOVE_HYPER_BEAM",
@@ -2069,6 +2079,7 @@
             "MOVE_HYPER_BEAM",
             "MOVE_LICK",
             "MOVE_OUTRAGE",
+            "MOVE_PSYWAVE",
             "MOVE_SKULL_BASH",
             "MOVE_SUPER_POWER",
             "MOVE_YAWN",
@@ -2088,6 +2099,7 @@
             "MOVE_ICE_BEAM",
             "MOVE_ICE_SHARD",
             "MOVE_ICY_WIND",
+            "MOVE_POWDER_SNOW",
             "MOVE_TRIPLE_AXEL"
         ],
         "EggMoves": [],
@@ -2100,6 +2112,7 @@
             "MOVE_ANCIENT_POWER",
             "MOVE_CHARGE_BEAM",
             "MOVE_DRILL_PECK",
+            "MOVE_HEAT_WAVE",
             "MOVE_THUNDER",
             "MOVE_THUNDERBOLT",
             "MOVE_THUNDER_SHOCK",
@@ -2115,6 +2128,7 @@
             "MOVE_ANCIENT_POWER",
             "MOVE_FIRE_BLAST",
             "MOVE_FIRE_SPIN",
+            "MOVE_FLY",
             "MOVE_HEAT_WAVE",
             "MOVE_OVERHEAT",
             "MOVE_SKY_ATTACK",
@@ -2174,6 +2188,7 @@
         "PreEvoMoves": [],
         "MachineMoves": [
             "MOVE_CONFUSION",
+            "MOVE_COUNTER",
             "MOVE_FLAMETHROWER",
             "MOVE_FOCUS_BLAST",
             "MOVE_HYPER_BEAM",
@@ -2434,11 +2449,13 @@
         "LevelMoves": [],
         "PreEvoMoves": [],
         "MachineMoves": [
+            "MOVE_ACROBATICS",
             "MOVE_AERIAL_ACE",
             "MOVE_BUG_BITE",
             "MOVE_BUG_BUZZ",
             "MOVE_COUNTER",
             "MOVE_DYNAMIC_PUNCH",
+            "MOVE_ROLLOUT",
             "MOVE_SILVER_WIND",
             "MOVE_STRUGGLE_BUG"
         ],
@@ -2463,6 +2480,7 @@
         "PreEvoMoves": [],
         "MachineMoves": [
             "MOVE_CROSS_POISON",
+            "MOVE_FOUL_PLAY",
             "MOVE_INFESTATION",
             "MOVE_LUNGE",
             "MOVE_MEGAHORN",
@@ -2481,6 +2499,7 @@
             "MOVE_AIR_SLASH",
             "MOVE_BITE",
             "MOVE_CROSS_POISON",
+            "MOVE_GUST",
             "MOVE_POISON_FANG",
             "MOVE_SHADOW_BALL",
             "MOVE_SLUDGE_BOMB"
@@ -2584,6 +2603,7 @@
             "MOVE_DRAINING_KISS",
             "MOVE_EXTRASENSORY",
             "MOVE_FAIRY_WIND",
+            "MOVE_HEAT_WAVE",
             "MOVE_HIDDEN_POWER",
             "MOVE_PSYSHOCK",
             "MOVE_STEEL_WING",
@@ -2615,7 +2635,8 @@
             "MOVE_FUTURE_SIGHT",
             "MOVE_OMINOUS_WIND",
             "MOVE_PECK",
-            "MOVE_PSYSHOCK"
+            "MOVE_PSYSHOCK",
+            "MOVE_SHADOW_BALL"
         ],
         "EggMoves": [],
         "TutorMoves": []
@@ -3084,6 +3105,7 @@
             "MOVE_ICE_BEAM",
             "MOVE_POISON_STING",
             "MOVE_SCALD",
+            "MOVE_SHADOW_BALL",
             "MOVE_SLUDGE_WAVE",
             "MOVE_WATER_GUN"
         ],
@@ -3124,8 +3146,10 @@
             "MOVE_CLOSE_COMBAT",
             "MOVE_COUNTER",
             "MOVE_EARTHQUAKE",
+            "MOVE_FURY_CUTTER",
             "MOVE_MEGAHORN",
             "MOVE_ROCK_BLAST",
+            "MOVE_ROCK_TOMB",
             "MOVE_STRUGGLE_BUG",
             "MOVE_UPPER_HAND"
         ],
@@ -3299,6 +3323,7 @@
             "MOVE_BUBBLE_BEAM",
             "MOVE_BULLET_SEED",
             "MOVE_ICE_BEAM",
+            "MOVE_TWISTER",
             "MOVE_WATER_PULSE",
             "MOVE_WING_ATTACK"
         ],
@@ -3311,6 +3336,7 @@
         "MachineMoves": [
             "MOVE_AIR_SLASH",
             "MOVE_BRAVE_BIRD",
+            "MOVE_DRILL_RUN",
             "MOVE_FLASH_CANNON",
             "MOVE_SKY_ATTACK",
             "MOVE_STEEL_WING"
@@ -3340,7 +3366,9 @@
             "MOVE_FIRE_FANG",
             "MOVE_FLAMETHROWER",
             "MOVE_FOUL_PLAY",
-            "MOVE_SNARL"
+            "MOVE_INCINERATE",
+            "MOVE_SNARL",
+            "MOVE_TRAILBLAZE"
         ],
         "EggMoves": [],
         "TutorMoves": []
@@ -3354,6 +3382,7 @@
             "MOVE_HYDRO_PUMP",
             "MOVE_OCTAZOOKA",
             "MOVE_OUTRAGE",
+            "MOVE_SURF",
             "MOVE_SWIFT",
             "MOVE_WATERFALL",
             "MOVE_WATER_GUN"
@@ -3715,6 +3744,7 @@
         "MachineMoves": [
             "MOVE_BODY_SLAM",
             "MOVE_GYRO_BALL",
+            "MOVE_HIGH_HORSEPOWER",
             "MOVE_ICE_BEAM",
             "MOVE_ROLLOUT",
             "MOVE_STOMP",
@@ -3836,6 +3866,7 @@
         "MachineMoves": [
             "MOVE_AEROBLAST",
             "MOVE_DRAGON_TAIL",
+            "MOVE_EARTH_POWER",
             "MOVE_EXTRASENSORY",
             "MOVE_FLY",
             "MOVE_FUTURE_SIGHT",
@@ -4632,6 +4663,7 @@
         "LevelMoves": [],
         "PreEvoMoves": [],
         "MachineMoves": [
+            "MOVE_BRICK_BREAK",
             "MOVE_DRAGON_TAIL",
             "MOVE_HEAVY_SLAM",
             "MOVE_IRON_TAIL",
@@ -4734,6 +4766,8 @@
         "PreEvoMoves": [],
         "MachineMoves": [
             "MOVE_BUG_BUZZ",
+            "MOVE_INFESTATION",
+            "MOVE_LUNGE",
             "MOVE_SIGNAL_BEAM",
             "MOVE_STRUGGLE_BUG",
             "MOVE_TACKLE",
@@ -4748,6 +4782,8 @@
         "MachineMoves": [
             "MOVE_BUG_BUZZ",
             "MOVE_DAZZLING_GLEAM",
+            "MOVE_INFESTATION",
+            "MOVE_SHADOW_BALL",
             "MOVE_SILVER_WIND",
             "MOVE_STRUGGLE_BUG",
             "MOVE_TACKLE"
@@ -4864,6 +4900,8 @@
             "MOVE_INCINERATE",
             "MOVE_OVERHEAT",
             "MOVE_ROCK_SMASH",
+            "MOVE_ROCK_TOMB",
+            "MOVE_SCORCHING_SANDS",
             "MOVE_SOLAR_BEAM"
         ],
         "EggMoves": [],
@@ -4967,7 +5005,8 @@
             "MOVE_SAND_ATTACK",
             "MOVE_SAND_TOMB",
             "MOVE_SCORCHING_SANDS",
-            "MOVE_STONE_EDGE"
+            "MOVE_STONE_EDGE",
+            "MOVE_TWISTER"
         ],
         "EggMoves": [],
         "TutorMoves": []
@@ -5280,13 +5319,15 @@
         "PreEvoMoves": [],
         "MachineMoves": [
             "MOVE_AERIAL_ACE",
+            "MOVE_DYNAMIC_PUNCH",
             "MOVE_FLAMETHROWER",
             "MOVE_FOUL_PLAY",
             "MOVE_ICE_BEAM",
             "MOVE_LICK",
             "MOVE_SHADOW_SNEAK",
             "MOVE_SUCKER_PUNCH",
-            "MOVE_THUNDER"
+            "MOVE_THUNDER",
+            "MOVE_THUNDER_PUNCH"
         ],
         "EggMoves": [],
         "TutorMoves": []
@@ -6297,6 +6338,8 @@
             "MOVE_HYPER_BEAM",
             "MOVE_LOW_KICK",
             "MOVE_POUND",
+            "MOVE_SHADOW_BALL",
+            "MOVE_THUNDER_PUNCH",
             "MOVE_TRIPLE_AXEL"
         ],
         "EggMoves": [],
@@ -6310,6 +6353,7 @@
             "MOVE_DAZZLING_GLEAM",
             "MOVE_HEX",
             "MOVE_MAGICAL_LEAF",
+            "MOVE_MYSTICAL_FIRE",
             "MOVE_PSYWAVE",
             "MOVE_SHADOW_BALL",
             "MOVE_SUCKER_PUNCH"
@@ -6531,7 +6575,8 @@
             "MOVE_FIRE_BLAST",
             "MOVE_MUD_SHOT",
             "MOVE_OUTRAGE",
-            "MOVE_SAND_TOMB"
+            "MOVE_SAND_TOMB",
+            "MOVE_TWISTER"
         ],
         "EggMoves": [],
         "TutorMoves": []
@@ -6708,6 +6753,7 @@
         "MachineMoves": [
             "MOVE_AQUA_TAIL",
             "MOVE_BLIZZARD",
+            "MOVE_GUST",
             "MOVE_SILVER_WIND",
             "MOVE_WATERFALL",
             "MOVE_WATER_GUN",
@@ -6780,6 +6826,7 @@
         "MachineMoves": [
             "MOVE_CHARGE_BEAM",
             "MOVE_FLASH_CANNON",
+            "MOVE_MAGNET_BOMB",
             "MOVE_METAL_SOUND",
             "MOVE_MIRROR_SHOT",
             "MOVE_SPARK",
@@ -6811,6 +6858,7 @@
         "PreEvoMoves": [],
         "MachineMoves": [
             "MOVE_BREAKING_SWIPE",
+            "MOVE_DRILL_RUN",
             "MOVE_EARTHQUAKE",
             "MOVE_MUD_SLAP",
             "MOVE_ROCK_WRECKER",
@@ -6934,6 +6982,7 @@
         "LevelMoves": [],
         "PreEvoMoves": [],
         "MachineMoves": [
+            "MOVE_ACROBATICS",
             "MOVE_AERIAL_ACE",
             "MOVE_EARTHQUAKE",
             "MOVE_FURY_CUTTER",
@@ -6988,6 +7037,7 @@
             "MOVE_LOW_KICK",
             "MOVE_PSYCHIC",
             "MOVE_PSYCHO_CUT",
+            "MOVE_SACRED_SWORD",
             "MOVE_SYNCHRONOISE"
         ],
         "EggMoves": [],
@@ -7194,9 +7244,11 @@
             "MOVE_DARK_PULSE",
             "MOVE_FEINT_ATTACK",
             "MOVE_FOCUS_BLAST",
+            "MOVE_FOUL_PLAY",
             "MOVE_SHADOW_BALL",
             "MOVE_SLUDGE_BOMB",
-            "MOVE_SNARL"
+            "MOVE_SNARL",
+            "MOVE_SUCKER_PUNCH"
         ],
         "EggMoves": [],
         "TutorMoves": []
@@ -7210,152 +7262,6 @@
             "MOVE_IRON_TAIL",
             "MOVE_OUTRAGE",
             "MOVE_SHADOW_CLAW"
-        ],
-        "EggMoves": [],
-        "TutorMoves": []
-    },
-    "SPECIES_496": {
-        "LevelMoves": [],
-        "PreEvoMoves": [],
-        "MachineMoves": [
-            "MOVE_DARK_PULSE",
-            "MOVE_POISON_JAB",
-            "MOVE_PSYCHO_BOOST",
-            "MOVE_ZAP_CANNON",
-            "MOVE_ZEN_HEADBUTT"
-        ],
-        "EggMoves": [],
-        "TutorMoves": []
-    },
-    "SPECIES_497": {
-        "LevelMoves": [],
-        "PreEvoMoves": [],
-        "MachineMoves": [
-            "MOVE_COUNTER",
-            "MOVE_PSYCHO_BOOST",
-            "MOVE_ROCK_SLIDE",
-            "MOVE_THUNDERBOLT",
-            "MOVE_ZEN_HEADBUTT"
-        ],
-        "EggMoves": [],
-        "TutorMoves": []
-    },
-    "SPECIES_498": {
-        "LevelMoves": [],
-        "PreEvoMoves": [],
-        "MachineMoves": [
-            "MOVE_CHARGE_BEAM",
-            "MOVE_PSYCHO_BOOST",
-            "MOVE_SWIFT",
-            "MOVE_THUNDERBOLT",
-            "MOVE_ZEN_HEADBUTT"
-        ],
-        "EggMoves": [],
-        "TutorMoves": []
-    },
-    "SPECIES_499": {
-        "LevelMoves": [],
-        "PreEvoMoves": [],
-        "MachineMoves": [
-            "MOVE_BUG_BITE",
-            "MOVE_BUG_BUZZ",
-            "MOVE_BULLDOZE",
-            "MOVE_CONFUSION",
-            "MOVE_PSYBEAM"
-        ],
-        "EggMoves": [],
-        "TutorMoves": []
-    },
-    "SPECIES_501": {
-        "LevelMoves": [],
-        "PreEvoMoves": [],
-        "MachineMoves": [
-            "MOVE_DRAGON_PULSE",
-            "MOVE_DRAGON_TAIL",
-            "MOVE_OMINOUS_WIND",
-            "MOVE_SHADOW_BALL",
-            "MOVE_SHADOW_CLAW",
-            "MOVE_SHADOW_FORCE"
-        ],
-        "EggMoves": [],
-        "TutorMoves": []
-    },
-    "SPECIES_502": {
-        "LevelMoves": [],
-        "PreEvoMoves": [],
-        "MachineMoves": [
-            "MOVE_ENERGY_BALL",
-            "MOVE_GRASS_KNOT",
-            "MOVE_HIDDEN_POWER",
-            "MOVE_MAGICAL_LEAF",
-            "MOVE_SEED_FLARE",
-            "MOVE_SOLAR_BEAM",
-            "MOVE_ZEN_HEADBUTT"
-        ],
-        "EggMoves": [],
-        "TutorMoves": []
-    },
-    "SPECIES_503": {
-        "LevelMoves": [],
-        "PreEvoMoves": [],
-        "MachineMoves": [
-            "MOVE_ASTONISH",
-            "MOVE_OVERHEAT",
-            "MOVE_THUNDER",
-            "MOVE_THUNDERBOLT",
-            "MOVE_THUNDER_SHOCK"
-        ],
-        "EggMoves": [],
-        "TutorMoves": []
-    },
-    "SPECIES_504": {
-        "LevelMoves": [],
-        "PreEvoMoves": [],
-        "MachineMoves": [
-            "MOVE_ASTONISH",
-            "MOVE_HYDRO_PUMP",
-            "MOVE_THUNDER",
-            "MOVE_THUNDERBOLT",
-            "MOVE_THUNDER_SHOCK"
-        ],
-        "EggMoves": [],
-        "TutorMoves": []
-    },
-    "SPECIES_505": {
-        "LevelMoves": [],
-        "PreEvoMoves": [],
-        "MachineMoves": [
-            "MOVE_ASTONISH",
-            "MOVE_BLIZZARD",
-            "MOVE_THUNDER",
-            "MOVE_THUNDERBOLT",
-            "MOVE_THUNDER_SHOCK"
-        ],
-        "EggMoves": [],
-        "TutorMoves": []
-    },
-    "SPECIES_506": {
-        "LevelMoves": [],
-        "PreEvoMoves": [],
-        "MachineMoves": [
-            "MOVE_AIR_SLASH",
-            "MOVE_ASTONISH",
-            "MOVE_OMINOUS_WIND",
-            "MOVE_THUNDER",
-            "MOVE_THUNDERBOLT"
-        ],
-        "EggMoves": [],
-        "TutorMoves": []
-    },
-    "SPECIES_507": {
-        "LevelMoves": [],
-        "PreEvoMoves": [],
-        "MachineMoves": [
-            "MOVE_ASTONISH",
-            "MOVE_OMINOUS_WIND",
-            "MOVE_THUNDER",
-            "MOVE_THUNDERBOLT",
-            "MOVE_THUNDER_SHOCK"
         ],
         "EggMoves": [],
         "TutorMoves": []
@@ -7794,6 +7700,7 @@
         "PreEvoMoves": [],
         "MachineMoves": [
             "MOVE_HEAVY_SLAM",
+            "MOVE_LOCK_ON",
             "MOVE_METEOR_BEAM",
             "MOVE_MUD_SLAP",
             "MOVE_ROCK_SLIDE",
@@ -7866,6 +7773,7 @@
         "PreEvoMoves": [],
         "MachineMoves": [
             "MOVE_BODY_SLAM",
+            "MOVE_CHARGE_BEAM",
             "MOVE_DAZZLING_GLEAM",
             "MOVE_DISARMING_VOICE",
             "MOVE_HYPER_BEAM",
@@ -7909,6 +7817,7 @@
             "MOVE_COUNTER",
             "MOVE_DYNAMIC_PUNCH",
             "MOVE_FOCUS_BLAST",
+            "MOVE_FORCE_PALM",
             "MOVE_POISON_JAB",
             "MOVE_STONE_EDGE"
         ],
@@ -7947,6 +7856,7 @@
         "MachineMoves": [
             "MOVE_BUBBLE",
             "MOVE_EARTH_POWER",
+            "MOVE_ICY_WIND",
             "MOVE_MUDDY_WATER",
             "MOVE_MUD_SHOT",
             "MOVE_SLUDGE_BOMB"
@@ -8053,6 +7963,7 @@
         "LevelMoves": [],
         "PreEvoMoves": [],
         "MachineMoves": [
+            "MOVE_AQUA_TAIL",
             "MOVE_BUG_BITE",
             "MOVE_GYRO_BALL",
             "MOVE_MEGAHORN",
@@ -8287,6 +8198,7 @@
         "MachineMoves": [
             "MOVE_ASTONISH",
             "MOVE_DARK_PULSE",
+            "MOVE_ENERGY_BALL",
             "MOVE_PSYCHIC",
             "MOVE_SHADOW_BALL",
             "MOVE_SHADOW_CLAW",
@@ -8397,7 +8309,8 @@
             "MOVE_NIGHT_SHADE",
             "MOVE_SHADOW_CLAW",
             "MOVE_SLUDGE_BOMB",
-            "MOVE_SNARL"
+            "MOVE_SNARL",
+            "MOVE_SUCKER_PUNCH"
         ],
         "EggMoves": [],
         "TutorMoves": []
@@ -8526,8 +8439,10 @@
         "PreEvoMoves": [],
         "MachineMoves": [
             "MOVE_AIR_SLASH",
+            "MOVE_AQUA_JET",
             "MOVE_BUBBLE_BEAM",
             "MOVE_FLY",
+            "MOVE_GUST",
             "MOVE_HURRICANE",
             "MOVE_ICE_BEAM",
             "MOVE_WATER_GUN"
@@ -8909,6 +8824,7 @@
         "LevelMoves": [],
         "PreEvoMoves": [],
         "MachineMoves": [
+            "MOVE_ASTONISH",
             "MOVE_ENERGY_BALL",
             "MOVE_FIRE_SPIN",
             "MOVE_FLAME_CHARGE",
@@ -9531,6 +9447,7 @@
         "PreEvoMoves": [],
         "MachineMoves": [
             "MOVE_AERIAL_ACE",
+            "MOVE_BRUTAL_SWING",
             "MOVE_BUBBLE",
             "MOVE_FEINT_ATTACK",
             "MOVE_HYDRO_CANNON",
@@ -9868,6 +9785,7 @@
             "MOVE_CHARGE_BEAM",
             "MOVE_CHARM",
             "MOVE_DRAINING_KISS",
+            "MOVE_FAIRY_WIND",
             "MOVE_MOONBLAST",
             "MOVE_PSYCHIC",
             "MOVE_PSYSHOCK",
@@ -10115,10 +10033,12 @@
             "MOVE_CHARM",
             "MOVE_DAZZLING_GLEAM",
             "MOVE_DRAINING_KISS",
+            "MOVE_FAIRY_WIND",
             "MOVE_LAST_RESORT",
             "MOVE_MOONBLAST",
             "MOVE_PSYSHOCK",
-            "MOVE_QUICK_ATTACK"
+            "MOVE_QUICK_ATTACK",
+            "MOVE_SHADOW_BALL"
         ],
         "EggMoves": [],
         "TutorMoves": []
@@ -10180,6 +10100,8 @@
         "LevelMoves": [],
         "PreEvoMoves": [],
         "MachineMoves": [
+            "MOVE_BODY_SLAM",
+            "MOVE_DRAGON_BREATH",
             "MOVE_DRAGON_PULSE",
             "MOVE_MUDDY_WATER",
             "MOVE_SLUDGE_WAVE",
@@ -10386,6 +10308,7 @@
             "MOVE_HYDRO_PUMP",
             "MOVE_INCINERATE",
             "MOVE_OVERHEAT",
+            "MOVE_SCALD",
             "MOVE_SLUDGE_BOMB",
             "MOVE_TAKE_DOWN",
             "MOVE_WATER_GUN"
@@ -11138,11 +11061,11 @@
         "LevelMoves": [],
         "PreEvoMoves": [],
         "MachineMoves": [
-            "MOVE_CHARM",
+            "MOVE_HEX",
             "MOVE_PLAY_ROUGH",
-            "MOVE_SHADOW_BALL",
             "MOVE_SHADOW_CLAW",
-            "MOVE_SHADOW_SNEAK"
+            "MOVE_SHADOW_SNEAK",
+            "MOVE_THUNDER"
         ],
         "EggMoves": [],
         "TutorMoves": []
@@ -11482,6 +11405,7 @@
             "MOVE_ICE_PUNCH",
             "MOVE_POISON_JAB",
             "MOVE_ROCK_SLIDE",
+            "MOVE_SHADOW_CLAW",
             "MOVE_SUCKER_PUNCH",
             "MOVE_THUNDER_PUNCH"
         ],
@@ -11548,6 +11472,8 @@
         "PreEvoMoves": [],
         "MachineMoves": [
             "MOVE_DISCHARGE",
+            "MOVE_DYNAMIC_PUNCH",
+            "MOVE_PLASMA_FISTS",
             "MOVE_SPARK",
             "MOVE_THUNDER_PUNCH",
             "MOVE_VOLT_SWITCH",
@@ -11572,6 +11498,7 @@
         "PreEvoMoves": [],
         "MachineMoves": [
             "MOVE_DOUBLE_IRON_BASH",
+            "MOVE_DYNAMIC_PUNCH",
             "MOVE_FLASH_CANNON",
             "MOVE_HYPER_BEAM",
             "MOVE_ROCK_SLIDE",
@@ -11649,10 +11576,12 @@
         "LevelMoves": [],
         "PreEvoMoves": [],
         "MachineMoves": [
+            "MOVE_BLAST_BURN",
             "MOVE_FIRE_SPIN",
             "MOVE_FLAMETHROWER",
             "MOVE_FLAME_CHARGE",
             "MOVE_FOCUS_BLAST",
+            "MOVE_PYRO_BALL",
             "MOVE_TACKLE"
         ],
         "EggMoves": [],
@@ -11686,8 +11615,10 @@
         "LevelMoves": [],
         "PreEvoMoves": [],
         "MachineMoves": [
+            "MOVE_HYDRO_CANNON",
             "MOVE_POUND",
             "MOVE_SHADOW_BALL",
+            "MOVE_SNIPE_SHOT",
             "MOVE_SURF",
             "MOVE_WATER_GUN",
             "MOVE_WATER_PULSE"
@@ -11794,6 +11725,8 @@
             "MOVE_BUG_BUZZ",
             "MOVE_CONFUSION",
             "MOVE_PSYCHIC",
+            "MOVE_PSYCHO_CUT",
+            "MOVE_PSYSHOCK",
             "MOVE_STRUGGLE_BUG"
         ],
         "EggMoves": [],
@@ -11816,6 +11749,7 @@
         "LevelMoves": [],
         "PreEvoMoves": [],
         "MachineMoves": [
+            "MOVE_ICY_WIND",
             "MOVE_NIGHT_SLASH",
             "MOVE_PLAY_ROUGH",
             "MOVE_QUICK_ATTACK",
@@ -11945,7 +11879,8 @@
             "MOVE_FLAME_CHARGE",
             "MOVE_ROCK_BLAST",
             "MOVE_ROCK_SLIDE",
-            "MOVE_SMACK_DOWN"
+            "MOVE_SMACK_DOWN",
+            "MOVE_TACKLE"
         ],
         "EggMoves": [],
         "TutorMoves": []
@@ -12033,10 +11968,11 @@
         "LevelMoves": [],
         "PreEvoMoves": [],
         "MachineMoves": [
-            "MOVE_DRILL_PECK",
+            "MOVE_DIVE",
             "MOVE_FLY",
             "MOVE_HYDRO_PUMP",
             "MOVE_PECK",
+            "MOVE_SURF",
             "MOVE_WATER_GUN"
         ],
         "EggMoves": [],
@@ -12090,6 +12026,7 @@
             "MOVE_POISON_JAB",
             "MOVE_POWER_UP_PUNCH",
             "MOVE_SPARK",
+            "MOVE_SWIFT",
             "MOVE_WILD_CHARGE"
         ],
         "EggMoves": [],
@@ -12248,6 +12185,7 @@
         "MachineMoves": [
             "MOVE_BITE",
             "MOVE_DARK_PULSE",
+            "MOVE_DRAINING_KISS",
             "MOVE_FOUL_PLAY",
             "MOVE_LOW_KICK",
             "MOVE_PLAY_ROUGH",
@@ -12726,6 +12664,7 @@
             "MOVE_ICE_PUNCH",
             "MOVE_PLAY_ROUGH",
             "MOVE_ROCK_SMASH",
+            "MOVE_SCRATCH",
             "MOVE_SMACK_DOWN",
             "MOVE_SWIFT",
             "MOVE_TACKLE",
@@ -12885,6 +12824,7 @@
             "MOVE_CLOSE_COMBAT",
             "MOVE_HYDRO_CANNON",
             "MOVE_LIQUIDATION",
+            "MOVE_LOW_KICK",
             "MOVE_WATER_GUN",
             "MOVE_WING_ATTACK"
         ],
@@ -12910,6 +12850,7 @@
         "MachineMoves": [
             "MOVE_BODY_SLAM",
             "MOVE_DIG",
+            "MOVE_MUD_SLAP",
             "MOVE_TACKLE",
             "MOVE_TAKE_DOWN",
             "MOVE_TRAILBLAZE"
@@ -13272,7 +13213,7 @@
             "MOVE_BITE",
             "MOVE_CRUNCH",
             "MOVE_DIG",
-            "MOVE_PAYBACK",
+            "MOVE_PSYCHIC_FANGS",
             "MOVE_SNARL"
         ],
         "EggMoves": [],
@@ -13285,7 +13226,7 @@
             "MOVE_BITE",
             "MOVE_CRUNCH",
             "MOVE_DIG",
-            "MOVE_PAYBACK",
+            "MOVE_PSYCHIC_FANGS",
             "MOVE_SNARL"
         ],
         "EggMoves": [],
@@ -13309,9 +13250,11 @@
         "PreEvoMoves": [],
         "MachineMoves": [
             "MOVE_ACID_SPRAY",
+            "MOVE_FOUL_PLAY",
             "MOVE_MUD_SLAP",
             "MOVE_POISON_FANG",
             "MOVE_POISON_JAB",
+            "MOVE_SCRATCH",
             "MOVE_SLUDGE_BOMB"
         ],
         "EggMoves": [],
@@ -13495,6 +13438,7 @@
             "MOVE_BULLDOZE",
             "MOVE_FAIRY_WIND",
             "MOVE_FLASH_CANNON",
+            "MOVE_GIGATON_HAMMER",
             "MOVE_HEAVY_SLAM",
             "MOVE_PLAY_ROUGH",
             "MOVE_ROCK_SMASH"
@@ -13533,6 +13477,7 @@
         "PreEvoMoves": [],
         "MachineMoves": [
             "MOVE_AERIAL_ACE",
+            "MOVE_DRILL_RUN",
             "MOVE_FLY",
             "MOVE_PAYBACK",
             "MOVE_ROCK_THROW",
@@ -13686,8 +13631,9 @@
         "MachineMoves": [
             "MOVE_AERIAL_ACE",
             "MOVE_BRAVE_BIRD",
-            "MOVE_CLOSE_COMBAT",
             "MOVE_DOUBLE_KICK",
+            "MOVE_PECK",
+            "MOVE_UPPER_HAND",
             "MOVE_WING_ATTACK"
         ],
         "EggMoves": [],
@@ -13822,6 +13768,7 @@
             "MOVE_FOCUS_BLAST",
             "MOVE_FOUL_PLAY",
             "MOVE_IRON_HEAD",
+            "MOVE_LOW_KICK",
             "MOVE_METAL_CLAW",
             "MOVE_METAL_SOUND",
             "MOVE_SNARL",
@@ -13866,6 +13813,7 @@
             "MOVE_BLIZZARD",
             "MOVE_DRAGON_BREATH",
             "MOVE_DRAGON_CLAW",
+            "MOVE_GLAIVE_RUSH",
             "MOVE_ICE_FANG",
             "MOVE_ICY_WIND",
             "MOVE_OUTRAGE"
